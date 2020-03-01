@@ -154,7 +154,12 @@
 # a = users()
 # print(a('Ram'))
 
-print("I am function")
+def main():
+    print("I am function")
+
+if __name__ == '__main__':
+    main()
+
 
 
 
