@@ -12,5 +12,12 @@
 # def sub(a,b):
 #     return (a-b)
 
-def call_name(name):
-    print("Hello" + name)
+# def call_name(name):
+#     print("Hello" + name)
+
+info = {
+    'name':'Ashim',
+    'age':'21',
+    'country':'Nepal',
+    'occupation':'Student'
+}
