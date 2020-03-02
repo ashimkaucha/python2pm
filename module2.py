@@ -1,6 +1,22 @@
-from module1 import sub
+import module1
+module1.call_name("Ashim Kaucha")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# from module1 import sub
 # print(add(20, 10))
-print(sub(50,30))
+# print(sub(50,30))
 
 
 
