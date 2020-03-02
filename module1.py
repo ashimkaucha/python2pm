@@ -6,14 +6,7 @@
 # else:
 #     print('Run from import')
 
-# def add(a,b):
-#     return (a+b)
-#
-# def sub(a,b):
-#     return (a-b)
 
-# def call_name(name):
-#     print("Hello" + name)
 
 info = {
     'name':'Ashim',
@@ -21,3 +14,14 @@ info = {
     'country':'Nepal',
     'occupation':'Student'
 }
+
+# def call_name(name):
+#     print("Hello" + name)
+
+# def add(a,b):
+#     return (a+b)
+#
+# def sub(a,b):
+#     return (a-b)
+
+

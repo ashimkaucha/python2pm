@@ -1,7 +1,12 @@
-import module1
+import module1 as m1
 
-x = module1.info['country']
+x = m1.info['occupation']
 print(x)
+
+# import module1
+#
+# x = module1.info['country']
+# print(x)
 
 # import module1
 # module1.call_name("Ashim Kaucha")
