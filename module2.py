@@ -1,5 +1,11 @@
-def test(a, b):
-    return (a + b)
+from module1 import sub
+# print(add(20, 10))
+print(sub(50,30))
 
 
-print(test(30, 20))
+
+# def test(a, b):
+#     return (a + b)
+#
+#
+# print(test(30, 20))
